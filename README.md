@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td valign="top">
-<h4>i'm looking for a job that allow me to perpetually get outside my comfort zone. The python , Django,vanilla Java Script,Cordova ,HTML & CSS are where i've spent the bulk of my time learning,but i'm always excited to learn new technologies!</h4>
+i'm looking for a job that allow me to perpetually get outside my comfort zone. The python , Django,vanilla Java Script,Cordova ,HTML & CSS are where i've spent the bulk of my time learning,but i'm always excited to learn new technologies!
   </td>
 </table>
 <h1 align="center" style="color:red;">Recent work</h1>
