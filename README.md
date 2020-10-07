@@ -8,7 +8,7 @@ i'm looking for a job that allow me to perpetually get outside my comfort zone. 
 </table>
 <br>
 <h1 align="center" style="color:red;">Recent work</h1>
-<img align="center" src="https://github.com/Mayank-Bhatt-450/Mayank-Bhatt-450/blob/main/img/agpr.png">
+<img align="center" src="https://github.com/Mayank-Bhatt-450/Mayank-Bhatt-450/blob/main/img/Untitled.png">
 <table>
   <tr>
     <td>As one of the main medicine distributor in ghaziabad , I knew something had to be done after discovering that there previous business management software is not able keep up with present time and now not making work easier for them,And then they got a new software that can monitor the business and also send personalized reminders and wishes to the clint to make clients feel special and that improve relations with clients ,And on top of that the new software is easy to use for the workers.and from this new software they save over 9,000 per month!
