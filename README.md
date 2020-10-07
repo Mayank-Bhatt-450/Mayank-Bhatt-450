@@ -1,8 +1,8 @@
-<h1 align="center">Hi i'm Mayank. How's it going?</h1>
+<h1 align="center">👋Hi i'm Mayank. How's it going?</h1>
 <table>
   <tr>
     <td valign="top">
-i'm looking for a job that allow me to perpetually get outside my comfort zone. The python , Django,vanilla Java Script,Cordova ,HTML & CSS are where i've spent the bulk of my time learning,but i'm always excited to learn new technologies!
+<h4>i'm looking for a job that allow me to perpetually get outside my comfort zone. The python , Django,vanilla Java Script,Cordova ,HTML & CSS are where i've spent the bulk of my time learning,but i'm always excited to learn new technologies!</h4>
   </td>
 </table>
 <h1 align="center" style="color:red;">Recent work</h1>
